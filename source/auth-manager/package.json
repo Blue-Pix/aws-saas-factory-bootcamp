@@ -7,7 +7,7 @@
     "test": "echo \"Error: no tests currently specified\""
   },
   "dependencies": {
-    "amazon-cognito-identity-js": "latest",
+    "amazon-cognito-identity-js": "6.3.8",
     "amazon-cognito-js": "latest",
     "node-fetch": "2.x",
     "body-parser": "latest",
